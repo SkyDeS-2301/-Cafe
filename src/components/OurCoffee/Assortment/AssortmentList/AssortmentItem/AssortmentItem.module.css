@@ -1,0 +1,19 @@
+.item {
+    padding: 20px;
+    box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.25);
+}
+.img {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.text {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: right;
+
+    margin-bottom: 15px;
+}
+.price {
+    text-align: right;
+    font-weight: 700;
+}

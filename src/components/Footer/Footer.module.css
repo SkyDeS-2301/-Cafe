@@ -1,0 +1,10 @@
+.footer {
+    max-width: 368px;
+
+    margin: 0 auto;
+    padding: 20px;
+}
+.menu__itemLink {
+    color: black;
+    font-size: 12px;
+}

@@ -1,0 +1,13 @@
+.wrapper {
+    background: url('../../../assets/OurCoffeeBg.jpg') 50%/cover no-repeat;
+    padding-top: 150px;
+}
+.title {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+
+    text-align: center;
+    padding-bottom: 85px;
+}

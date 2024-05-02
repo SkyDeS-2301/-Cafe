@@ -1,0 +1,35 @@
+.start {
+    padding: 95px 0 200px;
+
+    background: url("../../../assets/startBg.jpg") 50%/cover no-repeat;
+}
+
+.start__inner {
+    text-align: center;
+    color: white;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 700;
+
+    margin: 81px 0 20px;
+}
+
+.text {
+    font-size: 24px;
+    font-weight: 500;
+
+    span {
+        display: block;
+    }
+
+    margin: 30px 0 18px;
+}
+
+.button {
+    border: 1px solid white;
+    border-radius: 3px;
+
+    padding: 5px 42px;
+}

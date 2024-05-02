@@ -1,0 +1,10 @@
+.item {
+    background: #fff;
+    box-shadow: 4px 4px 20px 0 rgba(0, 0, 0, 0.25);
+}
+.button {
+    font-size: 12px;
+    font-weight: 600;
+
+    padding: 6px 20px;
+}
